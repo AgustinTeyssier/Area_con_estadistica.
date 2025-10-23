@@ -11,6 +11,6 @@ utilizando muestreo aleatorio de puntos sobre la imagen.
    Área_estimada = (Puntos_dentro / Total_puntos) × Área_total_imagen
 
 
-##EJEMPLO: 
+## EJEMPLO: 
 Usando la imagen del "Circulo.png" se estima que el lado del cuadrado es 5.
 Ahora Area-cuadrado =5x5= 25, y  π*(R)²= Area-Circulo
