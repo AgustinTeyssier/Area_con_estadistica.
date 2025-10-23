@@ -13,4 +13,6 @@ utilizando muestreo aleatorio de puntos sobre la imagen.
 
 ## EJEMPLO: 
 Usando la imagen del "Circulo.png" se estima que el lado del cuadrado es 5.
-Ahora Area-cuadrado =5x5= 25, y  π*(R)²= Area-Circulo
+
+Ahora Area-cuadrado =5x5= 25 el circulo representa el 77%, entonces 25*(.77)=19.25
+mientras que le area del circulo es π*(R)²= Area-Circulo que es : π*(2.5)²= 19.63
